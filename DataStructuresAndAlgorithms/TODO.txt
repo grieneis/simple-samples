@@ -1,0 +1,48 @@
+To code up:
+
+Sorts:
+-Insertion
+-Shell
+-Heap
+-Merge
+-Quick
+
+
+Data Structures (by hand and using stdlib):
+-Linked List
+-BST
+-Hash table
+-Binary heap (did with HeapSort)
+-K-D trees
+-Red-black tree
+
+
+Graphs:
+-Graph structure
+-BFS
+-DFS
+-Dijkstra's
+-A*
+
+Robotics:
+-Estimation: 
+    -KF, EKF
+    -Particle Filter
+    
+-Computer vision:
+    -Harris Corner
+    -Canney Edge
+    -Features: FAST, SIFT
+    -3D photo stuff
+    
+-Machine Learning:
+    -GP
+    -SVM
+-SLAM
+    -TinySLAM
+    -ICP
+    
+-Control:
+    -Quadrotor model + control
+    -MRAC adaptive control
+    -simple controlability analysis
